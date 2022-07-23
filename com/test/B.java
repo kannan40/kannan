@@ -14,6 +14,10 @@ public class B {
 		System.out.println(rev);
 		System.out.println("kannan");
 		System.out.println("kannan");
+<<<<<<< HEAD
+=======
+		System.out.println("kannan");
+>>>>>>> 5f047b66049a0240171db850264b551808439263
 	}
 
 }
