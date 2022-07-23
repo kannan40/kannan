@@ -13,6 +13,7 @@ public class B {
 		}
 		System.out.println(rev);
 		System.out.println("kannan");
+		System.out.println("kannan");
 	}
 
 }
